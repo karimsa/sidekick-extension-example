@@ -1,6 +1,9 @@
 {
     "name": "sidekick-extension-example",
     "version": "0.0.0",
+    "scripts": {
+        "format": "rome format ."
+    },
     "devDependencies": {
         "@karimsa/sidekick": "0.10.3",
         "react": "18.2.0",
